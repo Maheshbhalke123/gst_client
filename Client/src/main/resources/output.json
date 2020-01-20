@@ -1,0 +1,15 @@
+[ {
+  "id" : "1",
+  "type" : "Television",
+  "gst__id" : "2",
+  "gst__cgstRate" : "8",
+  "gst__sgstRate" : "8"
+}, {
+  "id" : "3",
+  "type" : "Bags",
+  "gst__id" : "4",
+  "gst__cgstRate" : "7",
+  "gst__sgstRate" : "7"
+}, {
+  "id" : ""
+} ]
